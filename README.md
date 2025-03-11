@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Corey's GitHub stats](https://github-readme-stats.vercel.app/api?username=coreystanford)](https://github.com/coreystanford/github-readme-stats)
+
 <!--
 **coreystanford/coreystanford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
